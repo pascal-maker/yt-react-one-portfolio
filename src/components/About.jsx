@@ -14,23 +14,17 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          I'm a student at the University of Ghent in my freetime i like to build websites and apps.
+           Let me help you fullfill your dream as an entrepeneur. If you need a landing page , an e-commerce app , a brand new website for your marketing agency or anything else that you desire  I'm your guy. 
+           Lets work together to fulfill your potential to the fullest.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I have worked with experienced developers across the world who worked at Facebook, Twitter, Pinterest and Adobe. 
+          When it comes to user-experience or design I always try to enhance the user experience based on your target audience. 
+          This includes the ability to create something that will appeal to the user. 
         </p>
       </div>
     </div>
