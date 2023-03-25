@@ -24,7 +24,7 @@ const About = () => {
         <p className="text-xl">
           I have worked with experienced developers across the world who worked at Facebook, Twitter, Pinterest and Adobe. 
           When it comes to user-experience or design I always try to enhance the user experience based on your target audience. 
-          This includes the ability to create something that will appeal to the user. 
+         
         </p>
       </div>
     </div>
