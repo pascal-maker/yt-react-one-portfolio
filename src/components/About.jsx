@@ -16,7 +16,7 @@ const About = () => {
         <p className="text-xl mt-20">
           I'm a student at the University of Ghent in my freetime i like to build websites and apps.
            Let me help you fullfill your dream as an entrepeneur. If you need a landing page , an e-commerce app , a brand new website for your marketing agency or anything else that you desire  I'm your guy. 
-           Lets work together to fulfill your potential to the fullest.
+           
         </p>
 
         <br />
